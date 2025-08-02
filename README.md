@@ -37,5 +37,15 @@ git push -u origin main
   - Use Git to add, commit, and push your new files to GitHub
   - Create a Local Python Virtual Environment for your project
   - Start a new python EDA project using a jupyter notebook
+
+# Clickable link to the data and information on the data
+  - https://github.com/mwaskom/seaborn-data/blob/master/mpg.csv
+  - The mpg dataset in seaborn is a classic dataset
+  - It has information regarding fuel efficiency (miles per gallon) and other characteristics like horsepower
+    and country of origin of cars from 1970s and 1980s.
+  - I chose this data becaue it is a great dataset for data visualization and to perform some statistics. 
+
+
+
     
 
